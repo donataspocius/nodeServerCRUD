@@ -1,0 +1,9 @@
+###
+POST http://localhost:5000/posts
+content-type: application/json
+
+{
+    "name": "Berta",
+    "surname": "Moon",
+    "nickname": "Sun"
+}
